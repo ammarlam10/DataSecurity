@@ -1,6 +1,9 @@
 POW Blockchain simulator with types of attacks 
 ==============================================
 
+Copyright (C) 2013 Rafael Brune mail@rbrune.de
+
+
 --------------------------------------------------------------------------------
 
 The code includes a blockchain simulator where different parameters like number of nodes and hashrates, number of blocks to simulate.
